@@ -1,5 +1,5 @@
 # webapp 
-[![CI Tests](https://github.com/alevann/webapp/actions/workflows/main.yaml/badge.svg)](https://github.com/alevann/webapp/actions/workflows/main.yaml)
+[![CI Tests](https://github.com/alevann/webapp/actions/workflows/main.yaml/badge.svg?branch=base-server-setup)](https://github.com/alevann/webapp/actions/workflows/main.yaml)
 
 # Adding a module aliases
 
