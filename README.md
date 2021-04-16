@@ -1,4 +1,5 @@
-# webapp
+# webapp 
+![CI Tests](https://github.com/alevann/webapp/actions/workflows/main.yml/badge.svg)
 
 # Adding a module aliases
 

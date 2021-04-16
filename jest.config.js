@@ -14,7 +14,11 @@ module.exports = {
             statements: 80
         }
     },
-    coverageReporters: ['json', 'lcov', 'text', 'clover'],
+    coverageReporters: [
+        'json-summary',
+        'lcov',
+        'text',
+    ],
     testEnvironment: 'node',
     setupFiles: ['./src/ext.ts'],
     moduleNameMapper: {
