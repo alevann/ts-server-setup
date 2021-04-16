@@ -1,5 +1,5 @@
 import supertest, { SuperAgentTest } from 'supertest'
-import application from '../app'
+import application from '@root/app'
 
 let app: SuperAgentTest
 

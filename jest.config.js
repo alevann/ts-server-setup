@@ -16,4 +16,9 @@ module.exports = {
     },
     coverageReporters: ['json', 'lcov', 'text', 'clover'],
     testEnvironment: 'node',
+    setupFiles: ['./src/ext.ts'],
+    moduleNameMapper: {
+        '@root/(.*)': '<rootDir>/$1',
+        '@src/(.*)': '<rootDir>/src/$1'
+    }
 }
