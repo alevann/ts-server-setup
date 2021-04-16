@@ -4,7 +4,7 @@
 # Adding a module aliases
 
 To add a module alias start by adding it to `tsconfig.json` as such:
-```json
+```js
 {
     "compilerOptions": {
         // ...
