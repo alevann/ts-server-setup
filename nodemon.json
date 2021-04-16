@@ -1,5 +1,6 @@
 {
     "watch": "./**",
     "exec": "npx tsc && node build/server.js",
-    "ext": "ts,json"
+    "ext": "ts,json",
+    "ignore": "*.test.ts"
 }
