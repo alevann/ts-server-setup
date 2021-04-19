@@ -1,5 +1,8 @@
-# webapp 
+# Ts Server Setup 
 [![CI Tests](https://github.com/alevann/webapp/actions/workflows/main.yaml/badge.svg?branch=base-server-setup)](https://github.com/alevann/webapp/actions/workflows/main.yaml)
+
+A simple starting point for a server. It utilizes Typescript and Express, tests are setup and configured as well as nodemon and module aliases.
+<br>Utility repo for starting new projects quickly.
 
 # Adding a module aliases
 
